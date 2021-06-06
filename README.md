@@ -17,6 +17,7 @@ In a nutshell, I have a broad experience in the molecular biology area, includin
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valquiria-alencar/)](https://www.linkedin.com/in/valquiria-alencar/)
 
 
+![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=vqrca&show_icons=true)
 
 <!--
 **vqrca/vqrca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
