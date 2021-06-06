@@ -3,14 +3,13 @@
 ### Hello World! 👋
 
 :dna: :petri_dish: I'm a Biologist and I have a Ph.D. in Biotechnology, with doctoral research studies focused on comparative genomics and functional analysis. 
-So, I have Broad experience in the molecular biology area, including: culture of microorganisms, cloning, synthetic biology and sequencing by synthesis.
-Besides that, I'm truly passionate about Data...
+n a nutshell, I have a broad experience in the molecular biology area, including: culture of microorganisms, cloning, synthetic biology and sequencing by synthesis. Besides that, I'm also truly passionate about Data...
 
-🌱 Currently, I'm learning Data Science! 
+🌱 So, currently I'm learning Data Science
 
   My Hard skills: Python, Statistics, Data Visualization, SQL Database/coding and Machine Learning :computer: :snake: :chart_with_upwards_trend:
 
-  My Soft skills: Intellectual curiosity, Critical thinking, Communication and Teamwork :thought_balloon: :woman_technologist:
+  My Soft skills: Intellectual curiosity, Critical thinking, Storytelling, Communication and Teamwork :thought_balloon: :woman_technologist:
 
 📫 How to reach me:
 
