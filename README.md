@@ -10,8 +10,8 @@ bioinformatic analysis of next-generation sequencing data. Thus, I'm also truly 
 
   > My Hard skills: Python, Statistics, Data Visualization, SQL Database/coding and Machine Learning :computer: :snake: :chart_with_upwards_trend:
 
-  > My Soft skills: Intellectual curiosity, Critical thinking, Storytelling, Communication and Teamwork :thought_balloon: :woman_technologist
-  :
+  > My Soft skills: Intellectual curiosity, Critical thinking, Storytelling, Communication and Teamwork :thought_balloon: :woman_technologist:
+  
   
   
  🚀 **Manuscripts published in scientific journals:**
