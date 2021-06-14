@@ -3,7 +3,8 @@
 ### Hello World! 👋
 
 :dna: :petri_dish: I'm a Biologist and I have a Ph.D. in Biotechnology, with doctoral research studies focused on comparative genomics and functional analysis. 
-In a nutshell, I have a broad experience in the molecular biology area, including: culture of microorganisms, cloning, synthetic biology and sequencing by synthesis. Besides that, I'm also truly passionate about Data...
+In a nutshell, I have a broad experience in the molecular biology area, including: culture of microorganisms, cloning, synthetic biology, sequencing by synthesis and 
+bioinformatic analysis of next-generation sequencing data. Thus, I'm also truly passionate about Data...
 
 🌱 So, currently I'm learning Data Science
 
