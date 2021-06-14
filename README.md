@@ -9,9 +9,11 @@ In a nutshell, I have a broad experience in the molecular biology area, includin
 
   My Hard skills: Python, Statistics, Data Visualization, SQL Database/coding and Machine Learning :computer: :snake: :chart_with_upwards_trend:
 
-  My Soft skills: Intellectual curiosity, Critical thinking, Storytelling, Communication and Teamwork :thought_balloon: :woman_technologist:
+  My Soft skills: Intellectual curiosity, Critical thinking, Storytelling, Communication and Teamwork :thought_balloon: :woman_technologist
+  :
   
-  **Manuscripts published in scientific journals:
+  
+ 🚀 **Manuscripts published in scientific journals:**
   
   [The Quorum Sensing Auto-Inducer 2 (AI-2) Stimulates Nitrogen Fixation and Favors Ethanol Production over Biomass Accumulation in *Zymomonas mobilis*](https://www.mdpi.com/1422-0067/22/11/5628)
   
@@ -29,7 +31,7 @@ In a nutshell, I have a broad experience in the molecular biology area, includin
   
   [Comparative Genomic Analysis of Coffee-Infecting *Xylella fastidiosa* Strains Isolated from Brazil](https://www.microbiologyresearch.org/content/journal/micro/10.1099/mic.0.000068)
   
-  [Genomic sequencing of two coffee-infecting strains of *Xylella fastidiosa* isolated from Brazil](https://journals.asm.org/doi/10.1128/genomeA.01190-13)
+  [Genomic Sequencing of Two Coffee-Infecting Strains of *Xylella fastidiosa* Isolated from Brazil](https://journals.asm.org/doi/10.1128/genomeA.01190-13)
 
 📫 How to reach me:
 
