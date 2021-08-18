@@ -6,7 +6,7 @@
 In a nutshell, I have a broad experience in the molecular biology area, including: culture of microorganisms, cloning, synthetic biology, sequencing by synthesis and 
 bioinformatic analysis of next-generation sequencing data. Thus, I'm also truly passionate about Data...
 
-🌱 In this way, currently I'm learning Data Science
+🌱 In this way, I have switched my career into Data Science:
 
   > My Hard skills: Python, Statistics, Data Visualization, SQL Database/coding and Machine Learning :computer: :snake: :chart_with_upwards_trend:
 
