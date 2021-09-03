@@ -11,7 +11,17 @@ bioinformatic analysis of next-generation sequencing data. Thus, I'm also truly 
   > My Hard skills: Python, Statistics, Data Visualization, SQL Database/coding and Machine Learning :computer: :snake: :chart_with_upwards_trend:
 
   > My Soft skills: Intellectual curiosity, Critical thinking, Storytelling, Communication and Teamwork :thought_balloon: 
-  
+
+🎲**Data Science projects:**
+- [Machine Learning in Healthcare: Predicting the Need for Hospitalization in ICU Beds During the COVID-19 Pandemic](https://github.com/vqrca/bootcamp_alura_projeto_final) *(in portuguese)*
+
+- [Scenarios and Effects of the Pandemic Caused by the New SARS-CoV-2 Coronavirus in Amazonas: Analysis and Prediction of Time Series with the Prophet Library](https://github.com/vqrca/bootcamp_alura_projeto_3) *(in portuguese)*
+
+- [Data Analysis: National Immunization Program](https://github.com/vqrca/bootcamp_alura_projeto_2) *(in portuguese)*
+
+- [Analysis of Hospital Costs of SUS (Unified Health System) and Evolution of Mortality Rates in Brazil](https://github.com/vqrca/bootcamp_alura_projeto_1) *(in portuguese)*
+
+- [Drug discovery: Direct search for new drugs using specific molecular targets and their Mechanisms of Action (MoA)](https://github.com/vqrca/imersao-dados-desafio-final) *(in portuguese) - 🏆 this project was selected as one of the 10 highlights, among more than 200 projects, in the 2021 Alura Data Immersion.
   
   
  🚀 **Manuscripts published in scientific journals:**
