@@ -21,7 +21,7 @@ bioinformatic analysis of next-generation sequencing data. Thus, I'm also truly 
 
 - [Analysis of Hospital Costs of SUS (Unified Health System) and Evolution of Mortality Rates in Brazil](https://github.com/vqrca/bootcamp_alura_projeto_1) *(in portuguese)*
 
-- [Drug discovery: Direct search for new drugs using specific molecular targets and their Mechanisms of Action (MoA)](https://github.com/vqrca/imersao-dados-desafio-final) *(in portuguese) - 🏆 this project was selected as one of the 10 highlights, among more than 200 projects, in the 2021 Alura Data Immersion.
+- [Drug discovery: Direct search for new drugs using specific molecular targets and their Mechanisms of Action (MoA)](https://github.com/vqrca/imersao-dados-desafio-final) *(in portuguese) - 🏆 this project was selected as one of the 10 highlights, among more than 200 projects, in the 2021 Alura Data Immersion.*
   
   
  🚀 **Manuscripts published in scientific journals:**
