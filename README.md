@@ -12,7 +12,7 @@ bioinformatic analysis of next-generation sequencing data. Thus, I'm also truly 
 
   > My Soft skills: Intellectual curiosity, Critical thinking, Storytelling, Communication and Teamwork :thought_balloon: 
 
-🎲 **Data Science projects:**
+🎲 **Data Science Projects:**
 - [Machine Learning in Healthcare: Predicting the Need for Hospitalization in ICU Beds During the COVID-19 Pandemic](https://github.com/vqrca/bootcamp_alura_projeto_final) *(in portuguese)*
 
 - [Scenarios and Effects of the Pandemic Caused by the New SARS-CoV-2 Coronavirus in Amazonas: Analysis and Prediction of Time Series with the Prophet Library](https://github.com/vqrca/bootcamp_alura_projeto_3) *(in portuguese)*
@@ -24,7 +24,7 @@ bioinformatic analysis of next-generation sequencing data. Thus, I'm also truly 
 - [Drug Discovery: Direct Search for New Drugs Using Specific Molecular Targets and Their Mechanisms of Action (MoA)](https://github.com/vqrca/imersao-dados-desafio-final) *(in portuguese) - 🏆 this project was selected as one of the 10 highlights, among more than 200 projects, in the 2021 Alura Data Immersion.*
   
   
- 🚀 **Manuscripts published in scientific journals:**
+ 🚀 **Manuscripts Published in Scientific Journals:**
   
  - [The Quorum Sensing Auto-Inducer 2 (AI-2) Stimulates Nitrogen Fixation and Favors Ethanol Production over Biomass Accumulation in *Zymomonas mobilis*](https://www.mdpi.com/1422-0067/22/11/5628)
   
