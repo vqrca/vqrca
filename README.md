@@ -8,7 +8,7 @@ bioinformatic analysis of next-generation sequencing data. Thus, I'm also truly 
 
 :woman_technologist: In this way, I have switched my career into Data Science:
 
-  > My Hard skills: Python, Statistics, Data Visualization, SQL Database/coding and Machine Learning :computer: :snake: :chart_with_upwards_trend:
+  > My Hard skills: Python, Statistics, Data Visualization, Time Series Forecasting and Machine Learning :computer: :snake: :chart_with_upwards_trend:
 
   > My Soft skills: Intellectual curiosity, Critical thinking, Storytelling, Communication and Teamwork :thought_balloon: 
 
