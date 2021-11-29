@@ -13,6 +13,9 @@ bioinformatic analysis of next-generation sequencing data. Thus, I'm also truly 
   > My Soft skills: Intellectual curiosity, Critical thinking, Storytelling, Communication and Teamwork :thought_balloon: 
 
 🎲 **Data Science Projects:**
+
+- [Data Heroines - Saving the World Through Data](https://www.kaggle.com/carodias/data-heroines-saving-the-world-through-data) Kaggle Competition with [Carolina Dias](https://github.com/diascarolina) and [Marivaldo Torres Junior](https://github.com/JuniorTorresMTJ)
+
 - [Machine Learning in Healthcare: Predicting the Need for Hospitalization in ICU Beds During the COVID-19 Pandemic](https://github.com/vqrca/bootcamp_alura_projeto_final) *(in portuguese)*
 
 - [Scenarios and Effects of the Pandemic Caused by the New SARS-CoV-2 Coronavirus in Amazonas: Analysis and Prediction of Time Series with the Prophet Library](https://github.com/vqrca/bootcamp_alura_projeto_3) *(in portuguese)*
