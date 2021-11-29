@@ -14,7 +14,7 @@ bioinformatic analysis of next-generation sequencing data. Thus, I'm also truly 
 
 🎲 **Data Science Projects:**
 
-- [Data Heroines - Saving the World Through Data](https://www.kaggle.com/carodias/data-heroines-saving-the-world-through-data) Kaggle Competition with [Carolina Dias](https://github.com/diascarolina) and [Marivaldo Torres Junior](https://github.com/JuniorTorresMTJ)
+- [Data Heroines - Saving the World Through Data](https://www.kaggle.com/carodias/data-heroines-saving-the-world-through-data) (Kaggle Competition with [Carolina Dias](https://github.com/diascarolina) and [Marivaldo Torres Junior](https://github.com/JuniorTorresMTJ))
 
 - [Machine Learning in Healthcare: Predicting the Need for Hospitalization in ICU Beds During the COVID-19 Pandemic](https://github.com/vqrca/bootcamp_alura_projeto_final) *(in portuguese)*
 
