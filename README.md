@@ -11,6 +11,9 @@ bioinformatic analysis of next-generation sequencing data. Thus, I'm also truly 
   > My Hard skills: Python, Statistics, Data Visualization, Time Series Forecasting and Machine Learning :computer: :snake: :chart_with_upwards_trend:
 
   > My Soft skills: Intellectual curiosity, Critical thinking, Storytelling, Communication and Teamwork :thought_balloon: 
+  
+ 📚**Books:**
+  - [Séries temporais com Prophet. Análise e previsão de dados com Python](https://www.casadocodigo.com.br/products/livro-series-temporais-prophet)
 
 🎲 **Data Science Projects:**
 
