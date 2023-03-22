@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=vqrca)
 
-### Hello World! 👋
+## Hello World! 👋
 
 :dna: :petri_dish: I'm a Biologist and I have a Ph.D. in Biotechnology, with doctoral research studies focused on comparative genomics and functional analysis. 
 In a nutshell, I have a broad experience in the molecular biology area, including: culture of microorganisms, cloning, synthetic biology, sequencing by synthesis and 
@@ -12,10 +12,10 @@ bioinformatic analysis of next-generation sequencing data. Thus, I'm also truly 
 
   > My Soft skills: Intellectual curiosity, Critical thinking, Storytelling, Communication and Teamwork :thought_balloon: 
   
- 📚**Books:**
+ ### Books 📚
   - [Séries temporais com Prophet. Análise e previsão de dados com Python](https://www.casadocodigo.com.br/products/livro-series-temporais-prophet)
 
-🎲 **Data Science Projects:**
+ ### Data Science Projects 🎲
 
 - [Data Heroines - Saving the World Through Data](https://www.kaggle.com/carodias/data-heroines-saving-the-world-through-data) (Kaggle Competition with [Carolina Dias](https://github.com/diascarolina) and [Marivaldo Torres Junior](https://github.com/JuniorTorresMTJ))
 
@@ -29,8 +29,15 @@ bioinformatic analysis of next-generation sequencing data. Thus, I'm also truly 
 
 - [Drug Discovery: Direct Search for New Drugs Using Specific Molecular Targets and Their Mechanisms of Action (MoA)](https://github.com/vqrca/imersao-dados-desafio-final) *(in portuguese) - 🏆 this project was selected as one of the 10 highlights, among more than 200 projects, in the 2021 Alura Data Immersion.*
   
-  
- 🚀 **Manuscripts Published in Scientific Journals:**
+### Latest Blog Posts📝
+* [Quais os efeitos do Storytelling no nosso corpo?](https://valquiria-c-alencar.medium.com/quais-os-efeitos-do-storytelling-no-nosso-corpo-9b14338ce6ba)
+* [Time Series Forecasting: Prophet é mesmo um Profeta?](https://valquiria-c-alencar.medium.com/time-series-forecasting-prophet-%C3%A9-mesmo-um-profeta-d3356f7b943f)
+* [Como migrar para Tecnologia?](https://valquiria-c-alencar.medium.com/como-migrar-para-tecnologia-f4c4c787df0e)
+
+🌐 [more posts...](https://valquiria-c-alencar.medium.com/)
+ 
+ 
+### Manuscripts Published in Scientific Journals 🚀
   
  - [The Quorum Sensing Auto-Inducer 2 (AI-2) Stimulates Nitrogen Fixation and Favors Ethanol Production over Biomass Accumulation in *Zymomonas mobilis*](https://www.mdpi.com/1422-0067/22/11/5628)
   
@@ -50,7 +57,7 @@ bioinformatic analysis of next-generation sequencing data. Thus, I'm also truly 
   
 - [Genomic Sequencing of Two Coffee-Infecting Strains of *Xylella fastidiosa* Isolated from Brazil](https://journals.asm.org/doi/10.1128/genomeA.01190-13)
 
-📫 How to reach me:
+### How to reach me 📫
 
 [![Gmail Badge](https://img.shields.io/badge/-valquiria.c.alencar@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valquiria.c.alencar@gmail.com)](mailto:valquiria.c.alencar@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Valquíria_Alencar-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valquiria-alencar/)](https://www.linkedin.com/in/valquiria-alencar/) 
