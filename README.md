@@ -36,7 +36,6 @@ bioinformatic analysis of next-generation sequencing data. Thus, I'm also truly 
 
 🌐 [more posts...](https://valquiria-c-alencar.medium.com/)
  
- 
 ### Manuscripts Published in Scientific Journals 🚀
   
  - [The Quorum Sensing Auto-Inducer 2 (AI-2) Stimulates Nitrogen Fixation and Favors Ethanol Production over Biomass Accumulation in *Zymomonas mobilis*](https://www.mdpi.com/1422-0067/22/11/5628)
