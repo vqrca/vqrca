@@ -2,15 +2,19 @@
 
 ## Hello World! 👋
 
-:dna: :petri_dish: I'm a Biologist and I have a Ph.D. in Biotechnology, with doctoral research studies focused on comparative genomics and functional analysis. 
-In a nutshell, I have a broad experience in the molecular biology area, including: culture of microorganisms, cloning, synthetic biology, sequencing by synthesis and 
-bioinformatic analysis of next-generation sequencing data. Thus, I'm also truly passionate about Data...
+I work on developing projects and courses that involve data preprocessing
+and exploratory analysis, data visualiazation, implementation of machine learning models, time
+series forecasting, natural language processing (NLP), and big data with
+Apache Spark and BigQuery. I am passionate about learning new things and
+solving problems with creative solutions.
 
-:woman_technologist: In this way, I have switched my career into Data Science:
+### Skills :woman_technologist:
 
-  > My Hard skills: Python, Statistics, Data Visualization, Time Series Forecasting and Machine Learning :computer: :snake: :chart_with_upwards_trend:
-
-  > My Soft skills: Intellectual curiosity, Critical thinking, Storytelling, Communication and Teamwork :thought_balloon: 
+* **Programming:** Python and SQL
+* **Data libs and tools:** Jupyter Notebook,
+Numpy, Pandas, Matplotlib, Seaborn, Plotly, Statsmodels, Scikit-learn, Prophet, NLTK,
+Databricks Plattaform, Apache Spark, Google BigQuery, IBM Watson Studio,
+MS Office, MS Excel, PowerBI and Google Suite. 
   
  ### Books 📚
   - [Séries temporais com Prophet. Análise e previsão de dados com Python](https://www.casadocodigo.com.br/products/livro-series-temporais-prophet)
