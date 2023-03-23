@@ -10,7 +10,7 @@ solving problems with creative solutions.
 
 ### Skills :woman_technologist:
 
-* **Programming:** Python and SQL
+* **Programming:** Python 
 * **Data libs and tools:** Jupyter Notebook,
 Numpy, Pandas, Matplotlib, Seaborn, Plotly, Statsmodels, Scikit-learn, Prophet, NLTK,
 Databricks Plattaform, Apache Spark, Google BigQuery, IBM Watson Studio,
