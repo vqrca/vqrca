@@ -19,6 +19,13 @@ MS Office, MS Excel, PowerBI and Google Suite.
  ### Books 📚
   - [Séries temporais com Prophet. Análise e previsão de dados com Python](https://www.casadocodigo.com.br/products/livro-series-temporais-prophet)
 
+ 
+ ### Courses - [Alura](https://www.alura.com.br/) 👩‍🏫
+- [Pandas I/O: trabalhando com diferentes formatos de arquivos](https://cursos.alura.com.br/course/pandas-io-trabalhando-diferentes-formatos-arquivos)
+- [Data Visualization: criando gráficos com bibliotecas Python](https://cursos.alura.com.br/course/data-visualization-graficos-bibliotecas-python)
+- [ChatGPT: otimizando a qualidade dos resultados](https://cursos.alura.com.br/course/chatgpt-otimizando-qualidade-resultados)
+- Machine Learning: utilizando ChatGPT como assistente
+ 
  ### Data Science Projects 🎲
 
 - [Data Heroines - Saving the World Through Data](https://www.kaggle.com/carodias/data-heroines-saving-the-world-through-data) (Kaggle Competition with [Carolina Dias](https://github.com/diascarolina) and [Marivaldo Torres Junior](https://github.com/JuniorTorresMTJ))
