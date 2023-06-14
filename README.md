@@ -2,7 +2,7 @@
 
 ## Hello World! 👋
 
-Currently, I am an instructor in the field of Data Science at Alura, where I develop projects and courses covering data preprocessing and exploratory data analysis, data visualization in Python, application of generative artificial intelligence, as well as the implementation and optimization of machine learning models. Additionally, I have an interest in the Big Data field and have experience with Apache Spark and BigQuery. I am passionate about learning new things and solving problems with creative solutions."
+Currently, I am an instructor in the field of Data Science at Alura, where I develop projects and courses covering data preprocessing and exploratory data analysis, data visualization in Python, application of generative artificial intelligence, as well as the implementation and optimization of machine learning models. Additionally, I have an interest in the Big Data field and have experience with Apache Spark and BigQuery. I am passionate about learning new things and solving problems with creative solutions.
 
 ### Skills :woman_technologist:
 
