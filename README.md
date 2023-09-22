@@ -12,15 +12,15 @@ Numpy, Pandas, Matplotlib, Seaborn, Plotly, Statsmodels, Scikit-learn, Prophet, 
 Databricks Plattaform, Apache Spark, Google BigQuery, IBM Watson Studio,
 MS Office, MS Excel, PowerBI and Google Suite. 
   
- ### Books 📚
-  - [Séries temporais com Prophet. Análise e previsão de dados com Python](https://www.casadocodigo.com.br/products/livro-series-temporais-prophet)
-
- 
  ### Courses - [Alura](https://www.alura.com.br/) 👩‍🏫
 - [Pandas I/O: trabalhando com diferentes formatos de arquivos](https://cursos.alura.com.br/course/pandas-io-trabalhando-diferentes-formatos-arquivos)
 - [Data Visualization: criando gráficos com bibliotecas Python](https://cursos.alura.com.br/course/data-visualization-graficos-bibliotecas-python)
 - [ChatGPT: otimizando a qualidade dos resultados](https://cursos.alura.com.br/course/chatgpt-otimizando-qualidade-resultados)
 - [Machine Learning: utilizando ChatGPT como assistente](https://cursos.alura.com.br/course/machine-learning-utilizando-chatgpt-assistente)
+- [Power BI: criando relatórios com auxílio de IA](https://cursos.alura.com.br/course/power-bi-criando-relatorios-auxilio-ia)
+
+ ### Books 📚
+  - [Séries temporais com Prophet. Análise e previsão de dados com Python](https://www.casadocodigo.com.br/products/livro-series-temporais-prophet)
  
  ### Data Science Projects 🎲
 
