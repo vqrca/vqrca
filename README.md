@@ -19,6 +19,8 @@ MS Office, MS Excel, PowerBI and Google Suite.
 - [Machine Learning: utilizando ChatGPT como assistente](https://cursos.alura.com.br/course/machine-learning-utilizando-chatgpt-assistente)
 - [Power BI: criando relatórios com auxílio de IA](https://cursos.alura.com.br/course/power-bi-criando-relatorios-auxilio-ia)
 - [Classificação: resolvendo problemas multiclasse](https://cursos.alura.com.br/course/classificacao-resolvendo-problemas-multiclasse)
+- [Classificação: melhorando o desempenho com XGBoost](https://cursos.alura.com.br/course/classificacao-melhorando-desempenho-xgboost)
+- [TensorFlow: implementando um perceptron de múltiplas camadas (MLP)](https://cursos.alura.com.br/course/tensorflow-implementando-perceptron-multiplas-camadas)
 
  ### Books 📚
   - [Séries temporais com Prophet. Análise e previsão de dados com Python](https://www.casadocodigo.com.br/products/livro-series-temporais-prophet)
