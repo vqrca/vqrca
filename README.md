@@ -13,14 +13,15 @@ Databricks Plattaform, Apache Spark, Google BigQuery, Google Cloud, IBM Watson S
 MS Office, MS Excel, PowerBI and Google Suite. 
   
  ### Courses - [Alura](https://www.alura.com.br/) 👩‍🏫
-- [Pandas I/O: trabalhando com diferentes formatos de arquivos](https://cursos.alura.com.br/course/pandas-io-trabalhando-diferentes-formatos-arquivos)
-- [Data Visualization: criando gráficos com bibliotecas Python](https://cursos.alura.com.br/course/data-visualization-graficos-bibliotecas-python)
-- [ChatGPT: otimizando a qualidade dos resultados](https://cursos.alura.com.br/course/chatgpt-otimizando-qualidade-resultados)
-- [Machine Learning: utilizando ChatGPT como assistente](https://cursos.alura.com.br/course/machine-learning-utilizando-chatgpt-assistente)
-- [Power BI: criando relatórios com auxílio de IA](https://cursos.alura.com.br/course/power-bi-criando-relatorios-auxilio-ia)
-- [Classificação: resolvendo problemas multiclasse](https://cursos.alura.com.br/course/classificacao-resolvendo-problemas-multiclasse)
-- [Classificação: melhorando o desempenho com XGBoost](https://cursos.alura.com.br/course/classificacao-melhorando-desempenho-xgboost)
+- [Data Science: analisando e prevendo séries temporais](https://cursos.alura.com.br/course/data-science-analisando-prevendo-series-temporais)
 - [TensorFlow: implementando um perceptron de múltiplas camadas (MLP)](https://cursos.alura.com.br/course/tensorflow-implementando-perceptron-multiplas-camadas)
+- [Classificação: melhorando o desempenho com XGBoost](https://cursos.alura.com.br/course/classificacao-melhorando-desempenho-xgboost)
+- [Classificação: resolvendo problemas multiclasse](https://cursos.alura.com.br/course/classificacao-resolvendo-problemas-multiclasse)
+- [Power BI: criando relatórios com auxílio de IA](https://cursos.alura.com.br/course/power-bi-criando-relatorios-auxilio-ia)
+- [Machine Learning: utilizando ChatGPT como assistente](https://cursos.alura.com.br/course/machine-learning-utilizando-chatgpt-assistente)
+- [ChatGPT: otimizando a qualidade dos resultados](https://cursos.alura.com.br/course/chatgpt-otimizando-qualidade-resultados)
+- [Data Visualization: criando gráficos com bibliotecas Python](https://cursos.alura.com.br/course/data-visualization-graficos-bibliotecas-python)
+- [Pandas I/O: trabalhando com diferentes formatos de arquivos](https://cursos.alura.com.br/course/pandas-io-trabalhando-diferentes-formatos-arquivos)
 
  ### Books 📚
   - [Séries temporais com Prophet. Análise e previsão de dados com Python](https://www.casadocodigo.com.br/products/livro-series-temporais-prophet)
