@@ -13,6 +13,9 @@ Databricks Plattaform, Apache Spark, Google BigQuery, Google Cloud, IBM Watson S
 MS Office, MS Excel, PowerBI and Google Suite. 
   
  ### Courses - [Alura](https://www.alura.com.br/) 👩‍🏫
+- [Hugging Face: explorando e aplicando soluções com modelos de IA](https://cursos.alura.com.br/course/hugging-face-explorando-aplicando-solucoes-modelos-ia)
+- [Regressão: aprimorando os resultados com XGBoost](https://cursos.alura.com.br/course/regressao-aprimorando-resultados-xgboost)
+- [Regressão: prevendo séries temporais com Prophet](https://cursos.alura.com.br/course/regressao-prevendo-series-temporais-prophet) 
 - [Data Science: analisando e prevendo séries temporais](https://cursos.alura.com.br/course/data-science-analisando-prevendo-series-temporais)
 - [TensorFlow: implementando um perceptron de múltiplas camadas (MLP)](https://cursos.alura.com.br/course/tensorflow-implementando-perceptron-multiplas-camadas)
 - [Classificação: melhorando o desempenho com XGBoost](https://cursos.alura.com.br/course/classificacao-melhorando-desempenho-xgboost)
