@@ -8,9 +8,9 @@ Currently, I am an instructor in the field of Data Science at Alura, where I dev
 
 * **Programming:** Python 
 * **Data libs and tools:** Jupyter Notebook,
-Numpy, Pandas, Matplotlib, Seaborn, Plotly, Statsmodels, Scikit-learn, TensorFlow, XGBoost, Prophet, NLTK,
-Databricks Plattaform, Apache Spark, Google BigQuery, Google Cloud, IBM Watson Studio,
-MS Office, MS Excel, PowerBI and Google Suite. 
+Numpy, Pandas, Matplotlib, Seaborn, Plotly, PowerBI, Statsmodels, Scikit-learn, TensorFlow, XGBoost, Prophet, NLTK,
+Databricks Plattaform, Apache Spark, Google BigQuery e LlamaIndex. 
+
   
  ### Courses - [Alura](https://www.alura.com.br/) 👩‍🏫
 - [Hugging Face: explorando e aplicando soluções com modelos de IA](https://cursos.alura.com.br/course/hugging-face-explorando-aplicando-solucoes-modelos-ia)
