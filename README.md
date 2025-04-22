@@ -8,7 +8,7 @@ Currently, I am an instructor in the field of Data Science at Alura, where I dev
 
 * **Programming:** Python and R
 * **Data libs and tools:** Jupyter Notebook,
-Numpy, Pandas, Matplotlib, Seaborn, Plotly, PowerBI, Statsmodels, Scikit-learn, TensorFlow, LlamaIndex, Langflow, XGBoost, Prophet, NLTK,
+Numpy, Pandas, Matplotlib, Seaborn, Plotly, PowerBI, Statsmodels, Scikit-learn, TensorFlow, LlamaIndex, Langflow, Langchain, XGBoost, Prophet, NLTK,
 Databricks Plattaform, Apache Spark and Google BigQuery.
 
   
