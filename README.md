@@ -2,7 +2,17 @@
 
 ## Hello World! 👋
 
-Currently, I am an instructor in the field of Data Science at Alura, where I develop projects and courses covering data preprocessing and exploratory data analysis, data visualization, application of generative artificial intelligence, as well as the implementation and optimization of machine learning models. Additionally, I have an interest in the Big Data field and have experience with Apache Spark and BigQuery. I am passionate about learning new things and solving problems with creative solutions.
+I hold a PhD in Biotechnology and currently work at Alura, where I develop and teach courses on data analysis, artificial intelligence, and machine learning, empowering professionals to extract value from data and build intelligent systems.
+
+Throughout my career, I have worked on a variety of topics, including:
+
+🔹 Machine Learning and Predictive Modeling – Development of predictive models, algorithm optimization, time series forecasting, and neural networks.
+
+🔹 Artificial Intelligence and Generative Models – Sentiment analysis, information extraction from documents, chatbot development using Retrieval-Augmented Generation (RAG), and creation of data-driven applications.
+
+🔹 Data Analysis and Visualization – Data manipulation and structuring, large-scale data processing, statistical modeling, and data visualization.
+
+Currently, my focus is on developing AI-driven solutions, especially in autonomous agents and generative models. I aim to explore how these technologies can be strategically applied to solve complex problems and automate processes.
 
 ### Skills :woman_technologist:
 
