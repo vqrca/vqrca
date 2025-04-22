@@ -16,19 +16,19 @@ Currently, my focus is on developing AI-driven solutions, especially in autonomo
 
 ### Skills :woman_technologist:
 
-**Programming Languages:** Python, R, SQL
+* **Programming Languages:** Python, R, SQL
 
-**Data Analysis & Visualization:** Pandas, NumPy, dplyr, ggplot2, tidyr, Matplotlib, Seaborn, Plotly, Power BI, Looker Studio
+* **Data Analysis & Visualization:** Pandas, NumPy, dplyr, ggplot2, tidyr, Matplotlib, Seaborn, Plotly, Power BI, Looker Studio
 
-**Statistical Modeling:** Statsmodels, Prophet
+* **Statistical Modeling:** Statsmodels, Prophet
 
-**Machine Learning & Deep Learning:** Scikit-learn, XGBoost, NLTK, TensorFlow
+* **Machine Learning & Deep Learning:** Scikit-learn, XGBoost, NLTK, TensorFlow
 
-**Generative AI & LLMs:** LangChain, LlamaIndex, Langflow, Hugging Face Transformers, 
+* **Generative AI & LLMs:** LangChain, LlamaIndex, Langflow, Hugging Face Transformers, 
 
-**Notebooks & Platforms:** Jupyter Notebook, Databricks, Google Cloud Platform
+* **Notebooks & Platforms:** Jupyter Notebook, Databricks, Google Cloud Platform
 
-**Big Data & Cloud:** Apache Spark, Google BigQuery
+* **Big Data & Cloud:** Apache Spark, Google BigQuery
   
  ### Courses - [Alura](https://www.alura.com.br/) 👩‍🏫
 - [LlamaIndex: criando um chatbot com a técnica RAG](https://cursos.alura.com.br/course/llamaIndex-criando-chatbot-tecnica-rag)
