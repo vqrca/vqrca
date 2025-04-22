@@ -24,7 +24,7 @@ Currently, my focus is on developing AI-driven solutions, especially in autonomo
 
 * **Machine Learning & Deep Learning:** Scikit-learn, XGBoost, NLTK, TensorFlow
 
-* **Generative AI & LLMs:** LangChain, LlamaIndex, Langflow, Hugging Face Transformers, 
+* **Generative AI & LLMs:** LangChain, LlamaIndex, Langflow, Hugging Face Transformers
 
 * **Notebooks & Platforms:** Jupyter Notebook, Databricks, Google Cloud Platform
 
