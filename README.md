@@ -15,12 +15,19 @@ Throughout my career, I have worked on a variety of topics, including:
 Currently, my focus is on developing AI-driven solutions, especially in autonomous agents and generative models. I aim to explore how these technologies can be strategically applied to solve complex problems and automate processes.
 
 ### Skills :woman_technologist:
+
 **Programming Languages:** Python, R, SQL
+
 **Data Analysis & Visualization:** Pandas, NumPy, dplyr, ggplot2, tidyr, Matplotlib, Seaborn, Plotly, Power BI, Looker Studio
+
 **Statistical Modeling:** Statsmodels, Prophet
+
 **Machine Learning & Deep Learning:** Scikit-learn, XGBoost, NLTK, TensorFlow
+
 **Generative AI & LLMs:** LangChain, LlamaIndex, Langflow, Hugging Face Transformers, 
+
 **Notebooks & Platforms:** Jupyter Notebook, Databricks, Google Cloud Platform
+
 **Big Data & Cloud:** Apache Spark, Google BigQuery
   
  ### Courses - [Alura](https://www.alura.com.br/) 👩‍🏫
