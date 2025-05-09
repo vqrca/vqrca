@@ -2,17 +2,11 @@
 
 ## Hello World! 👋
 
-I hold a PhD in Biotechnology and currently work at Alura, where I develop and teach courses on data analysis, artificial intelligence, and machine learning, empowering professionals to extract value from data and build intelligent systems.
+I’m a Data Scientist and Technical Consultant in Corporate Education, with a PhD in Biotechnology and a strong foundation in Data Science and Artificial Intelligence. I specialize in applying data-driven approaches to solve real-world problems, from building predictive models and analyzing data to communicating actionable insights that support strategic decisions.
 
-Throughout my career, I have worked on a variety of topics, including:
+I have been creating projects that leverage natural language processing, retrieval-augmented generation (RAG), autonomous agents, chatbot development, predictive modeling, time series forecasting, and data-driven applications, with a strong emphasis on data analysis.
 
-🔹 Machine Learning and Predictive Modeling – Development of predictive models, algorithm optimization, time series forecasting, and neural networks.
-
-🔹 Artificial Intelligence and Generative Models – Sentiment analysis, information extraction from documents, chatbot development using Retrieval-Augmented Generation (RAG), and creation of data-driven applications.
-
-🔹 Data Analysis and Visualization – Data manipulation and structuring, large-scale data processing, statistical modeling, and data visualization.
-
-Currently, my focus is on developing AI-driven solutions, especially in autonomous agents and generative models. I aim to explore how these technologies can be strategically applied to solve complex problems and automate processes.
+With a background in educational content creation, technical consulting, and designing data solutions, I’m passionate about helping organizations unlock the power of data to achieve their goals.
 
 ### Skills :woman_technologist:
 
