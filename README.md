@@ -8,7 +8,7 @@ I have been creating projects that leverage natural language processing, retriev
 
 With a background in educational content creation, technical consulting, and designing data solutions, I’m passionate about helping organizations unlock the power of data to achieve their goals.
 
-### Skills :woman_technologist:
+### Skills & Tools :woman_technologist:
 
 * **Programming Languages:** Python, R, SQL
 
