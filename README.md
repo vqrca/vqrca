@@ -10,7 +10,7 @@ With a background in educational content creation, technical consulting, and des
 
 ### Skills & Tools :woman_technologist:
 
-* **Programming Languages:** Python, R, SQL
+* **Languages:** Python, R, SQL
 
 * **Data Analysis & Visualization:** Pandas, NumPy, dplyr, ggplot2, tidyr, Matplotlib, Seaborn, Plotly, Power BI, Looker Studio
 
