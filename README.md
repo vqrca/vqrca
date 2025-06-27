@@ -18,7 +18,7 @@ With a background in educational content creation, technical consulting, and des
 
 * **Machine Learning & Deep Learning:** Scikit-learn, XGBoost, NLTK, TensorFlow
 
-* **Generative AI & LLMs:** LangChain, LlamaIndex, Langflow, Hugging Face Transformers
+* **Generative AI & LLMs:** Agent Development Kit (ADK), CrewAI, LangChain, LlamaIndex, Langflow, Hugging Face Transformers
 
 * **Notebooks & Platforms:** Jupyter Notebook, Databricks, Google Cloud Platform
 
