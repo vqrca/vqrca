@@ -2,11 +2,9 @@
 
 ## Hello World! 👋
 
-I’m a Data Scientist and Technical Consultant in Corporate Education, with a PhD in Biotechnology and a strong foundation in Data Science and Artificial Intelligence. I specialize in applying data-driven approaches to solve real-world problems, from building predictive models and analyzing data to communicating actionable insights that support strategic decisions.
+PhD in Biotechnology with a strong foundation in Data Science and Artificial Intelligence. Currently developing data and AI-powered solutions that support strategic decision-making, optimize operations, and enhance user experiences.
 
-I have been creating projects that leverage natural language processing, retrieval-augmented generation (RAG), autonomous agents, chatbot development, predictive modeling, time series forecasting, and data-driven applications, with a strong emphasis on data analysis.
-
-With a background in educational content creation, technical consulting, and designing data solutions, I’m passionate about helping organizations unlock the power of data to achieve their goals.
+Over the years, I've built a diverse career bridging science, technology, and education. My data journey began in academia, where I led research projects from initial data analysis to postdoctoral studies. Later, I transitioned to the tech industry, creating learning experiences centered on AI and analytics, designing data-driven solutions, and providing technical consulting. This blend of hands-on expertise and strategic insight enables me to connect deep technical knowledge with practical applications across various domains.
 
 ### Skills & Tools :woman_technologist:
 
