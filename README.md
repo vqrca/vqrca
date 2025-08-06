@@ -14,7 +14,7 @@ Over the years, I've built a diverse career bridging science, technology, and ed
 
 * **Statistical Modeling:** Statsmodels, Prophet
 
-* **Machine Learning & Deep Learning:** Scikit-learn, XGBoost, TensorFlow, NLT
+* **Machine Learning & Deep Learning:** Scikit-learn, XGBoost, TensorFlow, NLTK
 
 * **Generative AI & LLMs:** Agent Development Kit (ADK), CrewAI, LangChain, LlamaIndex, Langflow, Hugging Face Transformers
 
