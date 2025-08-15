@@ -1,5 +1,3 @@
-<img width="723" height="175" alt="image" src="https://github.com/user-attachments/assets/55be28f5-c5cc-4a2f-b9b9-0bd05ed7a3bb" />![](https://komarev.com/ghpvc/?username=vqrca)
-
 ## Hello World! 👋
 
 PhD in Biotechnology with a strong foundation in Data Science and Artificial Intelligence. Currently developing data and AI-powered solutions that support strategic decision-making, optimize operations, and enhance user experiences.
