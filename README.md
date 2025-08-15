@@ -14,7 +14,7 @@ Over the years, I've built a diverse career bridging science, technology, and ed
 
 * **Machine Learning & Deep Learning:** scikit-learn, caret, randomForest, XGBoost, NLTK, TensorFlow
 
-* **Generative AI & LLMs:** Agent Development Kit (ADK), CrewAI, LangChain, LlamaIndex, Langflow, Hugging Face Transformers
+* **Generative AI:** Agent Development Kit (ADK), CrewAI, LangChain, LlamaIndex, Langflow, Hugging Face Transformers
 
 * **Notebooks & Platforms:** Jupyter Notebook, Databricks, Google Cloud Platform
 
