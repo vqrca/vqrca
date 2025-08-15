@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=vqrca)
+<img width="723" height="175" alt="image" src="https://github.com/user-attachments/assets/55be28f5-c5cc-4a2f-b9b9-0bd05ed7a3bb" />![](https://komarev.com/ghpvc/?username=vqrca)
 
 ## Hello World! 👋
 
@@ -14,7 +14,7 @@ Over the years, I've built a diverse career bridging science, technology, and ed
 
 * **Statistical Modeling:** Statsmodels, Prophet
 
-* **Machine Learning & Deep Learning:** Scikit-learn, XGBoost, TensorFlow, NLTK
+* **Machine Learning & Deep Learning:** scikit-learn, caret, randomForest, XGBoost, NLTK, TensorFlow
 
 * **Generative AI & LLMs:** Agent Development Kit (ADK), CrewAI, LangChain, LlamaIndex, Langflow, Hugging Face Transformers
 
