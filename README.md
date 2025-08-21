@@ -86,8 +86,6 @@ Over the years, I've built a diverse career bridging science, technology, and ed
 - [Genomic Sequencing of Two Coffee-Infecting Strains of *Xylella fastidiosa* Isolated from Brazil](https://journals.asm.org/doi/10.1128/genomeA.01190-13)
 
 ### How to reach me 📫
-
-[![Gmail Badge](https://img.shields.io/badge/-valquiria.c.alencar@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:valquiria.c.alencar@gmail.com)](mailto:valquiria.c.alencar@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Valquíria_Alencar-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/valquiria-alencar/)](https://www.linkedin.com/in/valquiria-alencar/) 
 
 
